@@ -51,3 +51,19 @@ if no more moves are available then user loses the game(i.e the game displays ga
 In a board of 1*1 :
 if the winning value is 2 ..on pressing any of the valid keys the game displays you won
 in case of any other value ..on pressing any of the valid keys it displays game over
+
+
+taking an example of a board where the value of n is 4 and the win value is 16 ....The board is displayed as follows
+
+
+![WhatsApp Image 2020-05-18 at 22 26 37](https://user-images.githubusercontent.com/64811911/82239958-37776f00-9957-11ea-843e-be7a863a651b.jpeg)
+
+Since the win value is 16..on reaching the tile 16 message displayed is ..."you won"
+
+![WhatsApp Image 2020-05-18 at 22 26 36](https://user-images.githubusercontent.com/64811911/82240237-b076c680-9957-11ea-86b7-ed65d3797c00.jpeg)
+
+lets conider another example where n=2 and win value=64...since all tile are occupied and no move is available the "game over" message is displayed
+
+![WhatsApp Image 2020-05-18 at 22 26 33](https://user-images.githubusercontent.com/64811911/82240344-e9af3680-9957-11ea-946b-dfc16f957751.jpeg)
+
+

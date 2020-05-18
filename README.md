@@ -1,4 +1,6 @@
 # py2048
+Note: The project was done on WINDOWS
+
 welcome to the game 2048
 This is basically a python project for a terminal based 2048 game
 version of python uses : Python 3.8

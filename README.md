@@ -29,9 +29,13 @@ Press enter after entering the value of n and also after entering the win value
 
 The game starts now with a board of desired number of grids(as per the user)
 the user is now expected to play game by entering suitable keys
+
 w  for up 
+
 a for left 
+
 s for down
+
 d for right
 
 THE USER IS NOT REQUIRED TO PRESS ENTER AFTER EVERY INPUT
